@@ -1,5 +1,5 @@
 {
-    "name": "dizzying/wechat-crp",
+    "name": "dizzying/wechat-ent",
     "description": "Laravel微信企业号开发包",
     "keywords": ["wechat","Laravel","qywechat"],
     "homepage": "https://github.com/dizzying",
@@ -13,7 +13,7 @@
     ],
     "minimum-stability" : "dev",
     "support": {
-        "email": "lv@hun8.com"
+        "email": "dev@hun8.com"
     },
     "require": {
         "php":">=5.3",
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dizzying\\Wechat-crp\\": "src/Wechat/"
+            "Dizzying\\Wechat-ent\\": "src/Wechat/"
         }
     }
 }
